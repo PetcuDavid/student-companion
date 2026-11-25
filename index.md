@@ -1,11 +1,5 @@
-# Student Companion Knowledge Base
+# Student Companion Knowledge
 
-Aceasta este baza de cunoștințe pentru agentul Student Companion.
+## Orar
 
-## Conținut
-
-- Orar semestru
-- Materii
-- Deadline-uri
-- Reguli de notificare
-- Proiecte și teme
+- [Orar Student](orar/orare_student.html)
